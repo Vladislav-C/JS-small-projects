@@ -1,0 +1,16 @@
+section {
+  width: 300px;
+  height: 200px;
+  border: 2px dashed black;
+  padding: 0 20px;
+  background-color: rgba(19, 117, 197, 0.677);
+  margin: 30px auto;
+  overflow: scroll;
+  box-sizing: border-box;
+}
+
+button{
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+}
